@@ -56,32 +56,7 @@ Additionally, I frequently contribute to insightful blog posts that delve into t
 </td><td valign="top" width="50%">
 
 <div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-    <!-- Background -->
-    <rect width="100%" height="100%" fill="#E6E6E6" />
-    
-    <!-- Head -->
-    <circle cx="100" cy="60" r="40" fill="#F8C471" />
-
-    <!-- Body -->
-    <rect x="80" y="100" width="40" height="60" fill="#3498DB" />
-
-    <!-- Arms -->
-    <rect x="50" y="100" width="30" height="20" fill="#3498DB" />
-    <rect x="120" y="100" width="30" height="20" fill="#3498DB" />
-
-    <!-- Computer -->
-    <rect x="75" y="120" width="50" height="30" fill="#FFFFFF" />
-    
-    <!-- Screen -->
-    <rect x="85" y="125" width="30" height="20" fill="#D5DBDB" />
-
-    <!-- Keyboard -->
-    <rect x="80" y="150" width="40" height="5" fill="#D5DBDB" />
-    <rect x="80" y="158" width="40" height="5" fill="#D5DBDB" />
-    <rect x="80" y="166" width="40" height="5" fill="#D5DBDB" />
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><rect width="100%" height="100%" fill="#E6E6E6"/><circle cx="100" cy="60" r="40" fill="#F8C471"/><rect x="80" y="100" width="40" height="60" fill="#3498DB"/><rect x="50" y="100" width="30" height="20" fill="#3498DB"/><rect x="120" y="100" width="30" height="20" fill="#3498DB"/><rect x="75" y="120" width="50" height="30" fill="#FFFFFF"/><rect x="85" y="125" width="30" height="20" fill="#D5DBDB"/><rect x="80" y="150" width="40" height="5" fill="#D5DBDB"/><rect x="80" y="158" width="40" height="5" fill="#D5DBDB"/><rect x="80" y="166" width="40" height="5" fill="#D5DBDB"/></svg>
 </div>  
 
 
