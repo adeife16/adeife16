@@ -41,7 +41,7 @@ Additionally, I frequently contribute to insightful blog posts that delve into t
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [a school portal](https://martinsschool.com.ng) and [an online marketplace](https://five.com.ng)  
+- 🔭 I’m currently working on [a school portal](https://martinsschool.com.ng) and [an online marketplace](https://fivemarket.ng)  
   
 
 - 🌱 I’m currently learning Flutter and Dart  
