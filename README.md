@@ -44,7 +44,7 @@ Additionally, I frequently contribute to insightful blog posts that delve into t
 - 🔭 I’m currently working on [a school portal](https://martinsschool.com.ng) and [an online marketplace](https://fivemarket.ng)  
   
 
-- 🌱 I’m currently learning Flutter and Dart  
+- 🌱 I’m currently learning how to build frontend applications with React  
   
 
 - ❓ Ask me about anything related to web/mobile development and embedded system engineering  
