@@ -140,6 +140,3 @@ Additionally, I frequently contribute to insightful blog posts that delve into t
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
