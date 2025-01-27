@@ -1,4 +1,4 @@
-## Hey 👋, I'm Opeyemi Dada  
+## Hey 👋, I'm Opeyemi  
   
 
 <a href="https://github.com/adeife16" target="_blank">
