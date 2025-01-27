@@ -30,7 +30,7 @@
 
 
 ### Glad to see you here!  
-I am an experienced backend developer from Nigeria 🇳🇬 who has transitioned years of freelance work into a thriving full-time career. My expertise lies in crafting resilient backend systems that handle the intricate tasks required for your application or website. I take pride in designing elegant systems that are both lightweight and potent, distributed yet harmonized, and aesthetically pleasing while remaining highly efficient. 
+I am an experienced software developer from Nigeria 🇳🇬 who has transitioned years of freelance work into a thriving full-time career. My expertise lies in crafting resilient backend systems that handle the intricate tasks required for your application or website. I take pride in designing elegant systems that are both lightweight and potent, distributed yet harmonized, and aesthetically pleasing while remaining highly efficient. 
 
 Additionally, I frequently contribute to insightful blog posts that delve into the intricacies of the digital realm, encompassing topics such as system architecture, database management, security measures, server optimization, and emerging technologies like Blockchain, Progressive Web Apps (PWAs) and Artificial Intelligence (AI) and Embedded Systems Programming.  
   
