@@ -127,16 +127,4 @@ Additionally, I frequently contribute to insightful blog posts that delve into t
 
 </td></tr></table>  
 
-<br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=adeife16&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
