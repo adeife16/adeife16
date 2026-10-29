@@ -32,14 +32,6 @@
 ### Glad to see you here!  
 I am an experienced software developer from Nigeria 🇳🇬 who has transitioned years of freelance work into a thriving full-time career. My expertise lies in crafting resilient backend systems that handle the intricate tasks required for your application or website. I take pride in designing elegant systems that are both lightweight and potent, distributed yet harmonized, and aesthetically pleasing while remaining highly efficient. 
 
-
-<br/>  
-
-<div align="center">
-<img src="https://github.com/adeife16/adeife16/blob/main/male-web-developer-doing-research-on-development-5691622-4759504.webp">
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
