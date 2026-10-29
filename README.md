@@ -32,28 +32,8 @@
 ### Glad to see you here!  
 I am an experienced software developer from Nigeria 🇳🇬 who has transitioned years of freelance work into a thriving full-time career. My expertise lies in crafting resilient backend systems that handle the intricate tasks required for your application or website. I take pride in designing elegant systems that are both lightweight and potent, distributed yet harmonized, and aesthetically pleasing while remaining highly efficient. 
 
-Additionally, I frequently contribute to insightful blog posts that delve into the intricacies of the digital realm, encompassing topics such as system architecture, database management, security measures, server optimization, and emerging technologies like Blockchain, Progressive Web Apps (PWAs) and Artificial Intelligence (AI) and Embedded Systems Programming.  
-  
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [a school portal](https://martinsschool.com.ng) and [an online marketplace](https://fivemarket.ng)  
-  
-
-- 🌱 I’m currently learning how to build frontend applications with React  
-  
-
-- ❓ Ask me about anything related to web/mobile development and embedded system engineering  
-  
-
-- ⚡ Fun fact: I think i'm weird sometimes  
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://github.com/adeife16/adeife16/blob/main/male-web-developer-doing-research-on-development-5691622-4759504.webp">
