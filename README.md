@@ -22,10 +22,11 @@ I enjoy solving complex engineering problems, designing reliable APIs, building 
 - Authentication, authorization and application security
 - Scalable business applications and ERP systems
 - AI-powered applications and LLM integrations
-
+<!--
 ### Selected Projects
 
 Coming soon: A collection of production-oriented projects demonstrating my work across frontend engineering, backend systems, and application architecture.
+-->
 
 ### Let's Connect
 
